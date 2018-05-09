@@ -1,15 +1,11 @@
 # Movie Trailer Website
 
 ## Overview
-This is a web page that shows dynamically my favorite movies with its trailers.
+This is a webpage that shows dynamically my favorite movies with its trailers.
 
 ## Requirement
-* Browser (tested in Google Chrome)
+* Python 2.7
 
 ## How to Use
-* Download these files in local.
-* Open `fresh_tomatoes.html` by your browser.
-
-## Behind the Curtain
-* `entertainment_center.py` contains movie data (title, poster image, trailer url)
-* `fresh_tomatoes.py` generates formatted html file from the data in `entertainment_center.py`.
+1. In the command line, switch to `ud036_StarterCode/` directory.
+2. Run: `python entertainment_center.py`, then the browser will automatically open the webpage.
