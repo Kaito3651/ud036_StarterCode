@@ -1,16 +1,10 @@
 # Movie Trailer Website
 
-<<<<<<< HEAD
 ## Overview
-This is a web page that shows dynamically my favorite movies with trailers.
+This is a web page that shows dynamically my favorite movies with its trailers.
 
 ## Requirement
-Browser (tested in Google Chrome)
-=======
-## Key Features
-* Showing Title and Cover picture
-* Showing Trailer
->>>>>>> 71c7a675b11114c72ac6012a8ec539c3d81e875b
+* Browser (tested in Google Chrome)
 
 ## How to Use
 * Download these files in local.
